@@ -85,10 +85,10 @@ Here is an example of how the map will look:
 ## Project Structure
 
 ```
-├── road_route_map.py        # Main Python script
+├── OSRMtest.py        # Main Python script
 ├── README.md                # Project documentation (this file)
 ├── requirements.txt         # Python dependencies
-└── route_map.html           # Generated map output (created after running the script)
+└── map.html           # Generated map output (created after running the script)
 ```
 
 ## API Integration
