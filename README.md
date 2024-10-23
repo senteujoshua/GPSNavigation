@@ -36,7 +36,7 @@ pip install folium requests
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/road-route-mapping.git
+   [git clone https://github.com/your-username/road-route-mapping.git](https://github.com/senteujoshua/GPSNavigation.git)
    ```
 
 2. **Navigate to the project directory**:
